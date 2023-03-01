@@ -1,0 +1,23 @@
+.fn {
+    color: rgb(0, 106, 255);
+    display:inline;
+    font-weight: bold;
+}
+
+.ln {
+    color: rgba(29, 32, 104, 0.991);
+    display:inline;
+    font-weight: bold;
+}
+
+.country {
+    color: rgb(2, 16, 0);
+    display:inline;
+    font-weight: bold;
+}
+
+.city {
+    color: rgb(68, 68, 247);
+    display:inline;
+    font-weight: bold;
+}
